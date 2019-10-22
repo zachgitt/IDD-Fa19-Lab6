@@ -12,5 +12,5 @@ I created a chatbot to let the user know what the date of either the next jewish
 
 ## Record someone trying out your ChatBot
 
-**Using a phone or other video device, record someone trying out your ChatBot. Upload that video to this repository and link to it here!**
+[![Thumb](https://github.com/zachgitt/IDD-Fa19-Lab6/blob/master/chat_thumb.png)](https://youtu.be/kPGp7FOhON8)
 
