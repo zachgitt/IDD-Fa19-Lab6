@@ -1,10 +1,10 @@
 # ChatBot
 
-*A lab report by John Q. Student*
+* A lab report by Zachary Gittelman *
 
 ## In this Report
 
-To submit your lab, fork [this repository](https://github.com/FAR-Lab/IDD-Fa18-Lab6). You'll need to upload any code you change into your fork, as well as upload a video of a friend or classmate using your chatbot.
+[Code](https://github.com/FAR-Lab/IDD-Fa18-Lab6)
 
 ## Make the ChatBot your own
 
