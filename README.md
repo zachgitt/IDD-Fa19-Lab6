@@ -1,10 +1,10 @@
 # ChatBot
 
-* A lab report by Zachary Gittelman *
+*A lab report by Zachary Gittelman*
 
 ## In this Report
 
-[Code](https://github.com/FAR-Lab/IDD-Fa18-Lab6)
+[Code](https://github.com/zachgitt/IDD-Fa19-Lab6/blob/master/chatServer.js)
 
 ## Make the ChatBot your own
 
